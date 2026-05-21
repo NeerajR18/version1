@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Rajesh/Desktop/Neeraj/version1/Production/",
+      "plot": "C:/Users/Rajesh/Desktop/Neeraj/Github/version1/Production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -654,7 +654,7 @@
   "sheets": [
     [
       "c6e6ad77-3d8f-42c2-8f52-317589bb6871",
-      "Root"
+      "version1"
     ],
     [
       "0194f631-28dc-4166-b1d1-4c5025a56fc8",
