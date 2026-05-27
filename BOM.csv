@@ -8,13 +8,15 @@ TYPE-C 16PIN 2MD(073),J1,20,0.0747,1.49,SMD,C2765186,https://www.lcsc.com/produc
 TS-1088-AR02016,"SW1,SW2",10,0.0538,0.54,"SMD,4x3mm",C720477,https://www.lcsc.com/product-detail/C720477.html
 EC11E15244B2,SW3,1,2,2,Through Hole,C470754,https://www.lcsc.com/product-detail/C470754.html
 1206L050YR,F1,10,0.0622,0.62,1206,C163512,https://www.lcsc.com/product-detail/C163512.html
-RC0402FR-075K1L,"R1,R2",100,0.0009,0.09,402,C105872,https://www.lcsc.com/product-detail/C105872.html
-RC0402FR-0710KL,R3,100,0.0008,0.08,603,C60490,https://www.lcsc.com/product-detail/C60490.html
-CC0402KRX7R7BB104,"C1,C4,C5,C6,C7,C8,C10",100,0.0011,0.11,402,C60474,https://www.lcsc.com/product-detail/C60474.html
-CL10B105KA8NNNC,"C2,C3",50,0.0069,0.35,603,C29936,https://www.lcsc.com/product-detail/C29936.html
-CL10A106KP8NNNC,C9,50,0.0103,0.52,603,C19702,https://www.lcsc.com/product-detail/C19702.html
-Cherry MX Black Switches,-,9,3.48,31.32,-,-,https://neomacro.in/products/cherry-mx-switches?_pos=2&_sid=a9445e82d&_ss=r&variant=47150319108374
+RC0402FR-075K1L,"R1,R2",100,0.0009,0.09,0402,C105872,https://www.lcsc.com/product-detail/C105872.html
+RC0402FR-0710KL,R3,100,0.0008,0.08,0603,C60490,https://www.lcsc.com/product-detail/C60490.html
+CC0402KRX7R7BB104,"C1,C4,C5,C6,C7,C8,C10",100,0.0011,0.11,0402,C60474,https://www.lcsc.com/product-detail/C60474.html
+CL10B105KA8NNNC,"C2,C3",50,0.0069,0.35,0603,C29936,https://www.lcsc.com/product-detail/C29936.html
+CL10A106KP8NNNC,C9,50,0.0103,0.52,0603,C19702,https://www.lcsc.com/product-detail/C19702.html
+Cherry MX Black Switches[Pack of 10],-,9,3.48,31.32,-,-,https://neomacro.in/products/cherry-mx-switches?_pos=2&_sid=a9445e82d&_ss=r&variant=47150319108374
 Keycaps,-,1,13.5,13.5,-,-,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/
 Stabilizers(clip in),-,10,0.33,3.32,-,-,https://neomacro.in/products/cherry-pcb-mount-stabilizers-clip-in?_pos=1&_sid=0547a7463&_ss=r
 Wires for stabilizers,-,1,4.16,4.16,-,-,https://neomacro.in/products/equalz-c3-stabilizer-wire-set
-M3x20mm Screws,-,10,0.023,0.23,-,-,https://omrook.com/ss-allen-bolt-m3-x-20mm-dia-3mm-length-20mm-stainless-steel-ss202-socket-head-cap-screws/
+M3x20mm Screws,-,15,0.017,0.26,-,-,https://omrook.com/ss-allen-csk-m3-x-20mm-dia-3mm-length-20mm-stainless-steel-ss202-allen-socket-countersunk-screws/
+M3x4 Brass Inserts,-,50,0.023,1.15,-,-,https://omrook.com/m3-x-4-brass-threaded-inserts-nut-50pc/
+PCB - JLCPCB (with shipping),-,5,9.552,47.76,-,-,https://jlcpcb.com/
