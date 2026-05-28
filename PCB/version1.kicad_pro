@@ -132,7 +132,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.42,
+        "min_copper_edge_clearance": 0.4,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -648,7 +648,7 @@
         "uuid": "c6e6ad77-3d8f-42c2-8f52-317589bb6871"
       }
     ],
-    "used_designators": "S2-5,H1-4,D64,D76-77,D81-88,MX63,MX75-76,MX80-87",
+    "used_designators": "S2-5,H1-4,D64,D76-77,D81-93,MX63,MX75-76,MX80-91",
     "variants": []
   },
   "sheets": [
