@@ -1,3 +1,5 @@
+<img width="720" height="1104" alt="Zine" src="https://github.com/user-attachments/assets/945c9848-8be5-4f9a-8210-aa81c6aa7305" />
+
 # version1
 
 version1 is a TKL(TenKeyLess) Mechanical Keyboard with Kalih Hotswappable sockets and Cherry MX Black switches.
@@ -69,7 +71,7 @@ version1/
 |    └── version1.fbx
 |
 |── qmk_firmware/
-|    |── version1/
+|    └── version1/
 |       |── keymaps/
 |       |   └── keymaps/
 |       |       └── default/
@@ -168,11 +170,23 @@ To be updated with pictures after IRL build.
 | PCB - JLCPCB (with shipping) | - | 5 | 9.552 | 47.76 | - | - | https://jlcpcb.com/ |
 | Total |  |  |  | 117.91 |  |  |  |
 
-## Extra
+## Extras
 ### To be added in the future
 - Angle adjustment
 - Better case
 
 ### Resources I used for making this
 - GrabCAD - https://grabcad.com/ [3D Models]
-- 
+- marbastlib library - https://github.com/ebastler/marbastlib
+- Noah Kiser on youtube - https://www.youtube.com/@noahkiser
+- Keyboard Layout Editor - https://www.keyboard-layout-editor.com/
+- ai03 Plate Generator - https://kbplate.ai03.com/
+- MECH-TKL on cults3d - https://cults3d.com/en/3d-model/gadget/mechanical-keyboard-mech-tkl
+- KiCad - https://www.kicad.org
+- Keyboard Atelier discord server
+- Autodesk Fusion - https://www.autodesk.com/products/fusion-360/personal
+- Modern Hobbyist on YouTube - https://www.youtube.com/watch?v=u13yRbBiRYM
+- iNimbleSloth on YouTube - https://www.youtube.com/watch?v=9bjp_LteX_Y
+- Joe Scotto on YouTube - https://www.youtube.com/watch?v=o7SF2TPVV6o
+- Hack Club and Fallout for funding - https://hackclub.com/
+                                    - https://fallout.hackclub.com/
