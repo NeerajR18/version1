@@ -34,23 +34,25 @@ version1/
 |         └── version1-plate-right.step
 | 
 |── Production/   
-|    |── gerbers.zip
-|    |    |── STL Files/
-|    |    |     |─── version1-base/
-|    |    |     |     |── version1-base-left.stl
-|    |    |     |     |── version1-base-middle.stl
-|    |    |     |     └── version1-base-right.stl
-|    |    |     |
-|    |    |     └─── version1-plate/
-|    |    |          |── version1-plate-left.stl
-|    |    |          └── version1-plate-right.stl
-|    |    |── STEP Files/
-|    |    |   |─── version1-base/
-|    |    |   |      |── version1-base-left.step
-|    |    |   |      |── version1-base-middle.step
-|    |    |   |      └── version1-base-right.step
-|    |    |   |
-|    |    |   └──── version1-plate/
+|    |── gerbers.zip/
+|    |
+|    |── STL Files/
+|    |   |─── version1-base/
+|    |   |    |── version1-base-left.stl
+|    |   |    |── version1-base-middle.stl
+|    |   |    └── version1-base-right.stl
+|    |   |
+|    |   └─── version1-plate/
+|    |        |── version1-plate-left.stl
+|    |        └── version1-plate-right.stl
+|    |
+|    └── STEP Files/
+|           |─── version1-base/
+|           |      |── version1-base-left.step
+|           |      |── version1-base-middle.step
+|           |      └── version1-base-right.step
+|           |
+|           └──── version1-plate/
 |                   |── version1-plate-left.step
 |                   └── version1-plate-right.step
 |
@@ -155,3 +157,4 @@ To be updated after IRL build.
 | M3x4 Brass Inserts | - | 50 | 0.023 | 1.15 | - | - | https://omrook.com/m3-x-4-brass-threaded-inserts-nut-50pc/ |
 | Rotary Encoder Knob [Pack of 5] | - | 1 | 0.033 | 0.17 | - | - | https://makerbazar.in/products/black-rotary-encoder-knob-111-no |
 | PCB - JLCPCB (with shipping) | - | 5 | 9.552 | 47.76 | - | - | https://jlcpcb.com/ |
+| Total |  |  |  | 117.91 |  |  |  |
