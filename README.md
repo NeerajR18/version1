@@ -1,14 +1,19 @@
 # version1
 
 version1 is a TKL(TenKeyLess) Mechanical Keyboard with Kalih Hotswappable sockets and Cherry MX Black switches.
-This keyboard was designed as a deep dive into electronics as a beginner and to learn more about CAD.
+
 The keyboard features a fully custom made PCB with 87 standard TKL keys and 4 macrokeys. The keyboard is wired, using a USB-C port.
 version1 uses the STM32F072CBT6 at its core.
 
 The PCB was designed in KiCad and the case was designed in Autodesk Fusion. Fusion was also used to render images of the design.
 The footprints for the switches have been taken from the marbastlib library - https://github.com/ebastler/marbastlib
 
+Made for Hack Club Fallout.
 Note: This is still a WIP. Please copy anything at your own risk or do not copy at all.
+## Why build this?
+This keyboard was designed as a deep dive into electronics as a beginner and to learn more about CAD. 
+
+I also have never used mechanical keyboards, so I want this to act as my entry point to mechanical keyboards.
 
 ## Repository Guide
 ```
@@ -66,7 +71,7 @@ version1/
 |── qmk_firmware/
 |    |── version1/
 |       |── keymaps/
-|       |   |── keymaps/
+|       |   └── keymaps/
 |       |       └── default/
 |       |           └── keymap.c
 |       |── config.h
@@ -122,16 +127,20 @@ The case has been split into two parts on the plate and 3 parts on the base to a
 #####  Side View
 <img width="1222" height="689" alt="image" src="https://github.com/user-attachments/assets/aad6137b-1a00-47fa-80c9-22d5fecffeab" />
 
-## Renders [to add]
+## Renders 
 ##### Top view
+<img width="1920" height="1080" alt="version1-top-render" src="https://github.com/user-attachments/assets/1c68464c-63e8-4251-8394-308ab046a6ba" />
 
 ##### Side view
+<img width="1920" height="1080" alt="version1-side-render" src="https://github.com/user-attachments/assets/c778b177-c751-4ef5-ab59-2e077b831c0a" />
+<img width="1920" height="1080" alt="version1-right-render" src="https://github.com/user-attachments/assets/8d794b69-bbee-4639-9518-c16c115274a2" />
+
 
 ## Build Guide
-To be updated after IRL build.
+To be updated with pictures after IRL build.
 
 ## Bill of Materials
-# Bill of Materials
+
 
 | MPN | Designator | Quantity | Unit Price (USD) | Price (Ext.) | Package | LCSC Part Number | Link |
 |-----|------------|----------|-----------------|--------------|---------|-----------------|------|
@@ -158,3 +167,12 @@ To be updated after IRL build.
 | Rotary Encoder Knob [Pack of 5] | - | 1 | 0.033 | 0.17 | - | - | https://makerbazar.in/products/black-rotary-encoder-knob-111-no |
 | PCB - JLCPCB (with shipping) | - | 5 | 9.552 | 47.76 | - | - | https://jlcpcb.com/ |
 | Total |  |  |  | 117.91 |  |  |  |
+
+## Extra
+### To be added in the future
+- Angle adjustment
+- Better case
+
+### Resources I used for making this
+- GrabCAD - https://grabcad.com/ [3D Models]
+- 
