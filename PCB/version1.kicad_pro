@@ -648,7 +648,7 @@
         "uuid": "c6e6ad77-3d8f-42c2-8f52-317589bb6871"
       }
     ],
-    "used_designators": "S2-5,H1-4,D64,D76-77,D81-93,MX63,MX75-76,MX80-91",
+    "used_designators": "S2-5,H1-4,#PWR18-19,D64,D76-77,D81-93,MX63,MX75-76,MX80-91,J2",
     "variants": []
   },
   "sheets": [
