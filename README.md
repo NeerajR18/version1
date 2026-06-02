@@ -87,23 +87,24 @@ version1/
 
 ## Schematic
 ##### Overall Schematic
-<img width="1174" height="810" alt="image" src="https://github.com/user-attachments/assets/b66b5bd6-ac15-4012-9690-213726f1612f" />
+<img width="1105" height="754" alt="image" src="https://github.com/user-attachments/assets/c98ff124-01bf-44e2-b680-4c095ae262d4" />
+
 
 ##### Key matrix
 <img width="1125" height="765" alt="image" src="https://github.com/user-attachments/assets/8db83b8f-6b9c-4ddd-8eda-fd39123e0d0b" />
 
 ## PCB
 ##### PCB Front without GND Plane
-<img width="1563" height="540" alt="image" src="https://github.com/user-attachments/assets/6807294e-639c-4b0d-8790-0f17afbe6356" />
+<img width="1555" height="535" alt="image" src="https://github.com/user-attachments/assets/11d13f34-05fe-4241-bd2e-2a8eee6fc6f6" />
 
 ##### PCB Front with GND Plane
-<img width="1579" height="554" alt="image" src="https://github.com/user-attachments/assets/8efa5896-a019-4117-9711-0cc2a10932f5" />
+<img width="1579" height="555" alt="image" src="https://github.com/user-attachments/assets/111bbb09-b311-42ea-9b9a-33cb65f28f76" />
 
 ##### PCB Back without GND Plane
-<img width="1561" height="547" alt="image" src="https://github.com/user-attachments/assets/2e04a868-2f80-4ca1-917e-a8f28207c9be" />
+<img width="1561" height="545" alt="image" src="https://github.com/user-attachments/assets/e08d0af2-bb97-4b8b-87b3-03028ae6fe6a" />
 
 ##### PCB Back with GND Plane
-<img width="1579" height="557" alt="image" src="https://github.com/user-attachments/assets/783df441-0199-496c-92f0-c4b2f12ca915" />
+<img width="1577" height="551" alt="image" src="https://github.com/user-attachments/assets/42e77cc1-26eb-4750-a5c1-4406d09af054" />
 
 ## CAD
 The case has been split into two parts on the plate and 3 parts on the base to accomodate 3D printed parts. The plates and base have small pegs and holes for assembly.
@@ -167,8 +168,9 @@ To be updated with pictures after IRL build.
 | M3x20mm Screws | - | 15 | 0.017 | 0.26 | - | - | https://omrook.com/ss-allen-csk-m3-x-20mm-dia-3mm-length-20mm-stainless-steel-ss202-allen-socket-countersunk-screws/ |
 | M3x4 Brass Inserts | - | 50 | 0.023 | 1.15 | - | - | https://omrook.com/m3-x-4-brass-threaded-inserts-nut-50pc/ |
 | Rotary Encoder Knob [Pack of 5] | - | 1 | 0.033 | 0.17 | - | - | https://makerbazar.in/products/black-rotary-encoder-knob-111-no |
+| 1x4 Right Angle Berg Pin Header 2.54 mm pitch | J2 | 5 | 0.041 | 0.21 | - | - | https://sharvielectronics.com/product/4x1-4pin-male-right-angle-berg-header-connector-6mm-2-54mm-pitch/ |
 | PCB - JLCPCB (with shipping) | - | 5 | 9.552 | 47.76 | - | - | https://jlcpcb.com/ |
-| Total |  |  |  | 117.91 |  |  |  |
+| Total |  |  |  | 118.12 |  |  |  |
 
 ## Extras
 ### To be added in the future
