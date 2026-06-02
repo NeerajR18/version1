@@ -4265,6 +4265,18 @@
 		(uuid "22f21623-2464-4b44-bbad-d6ac7284bcb3")
 	)
 	(rectangle
+		(start 175.895 140.97)
+		(end 204.47 164.465)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "868c8805-396e-41be-b5e7-59b0985e06bc")
+	)
+	(rectangle
 		(start 246.38 105.41)
 		(end 277.495 135.255)
 		(stroke
@@ -4324,6 +4336,19 @@
 			)
 		)
 		(uuid "3ed90fd1-67b2-4b94-927e-ae811c8335eb")
+	)
+	(text "Debug\n"
+		(exclude_from_sim no)
+		(at 191.262 138.938 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.762)
+				(bold yes)
+				(color 0 255 255 1)
+			)
+		)
+		(uuid "4e790bb0-f8d8-4eee-9505-fa00c33e3b75")
 	)
 	(text "MCU"
 		(exclude_from_sim no)
