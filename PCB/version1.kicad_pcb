@@ -135,7 +135,7 @@
 		(descr "Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW3"
-			(at 2.8 -4.7 0)
+			(at -0.035054 -5.372553 0)
 			(layer "F.SilkS")
 			(uuid "ed0386a3-8747-4270-a6d4-ca7fe3312423")
 			(effects
@@ -2004,7 +2004,7 @@
 		(descr "Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row")
 		(tags "Through hole angled pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J2"
-			(at 4.385 -2.27 90)
+			(at 4.365 -2.475 90)
 			(layer "F.SilkS")
 			(uuid "f6b0e567-a83c-47cc-b9dc-b1f359195a18")
 			(effects
@@ -4048,15 +4048,14 @@
 		(at 83.552446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX20"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.002446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "297201df-aa7b-4df9-a6e1-45e39c85c223")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -5325,15 +5324,14 @@
 		(at 335.964946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX76"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -0.785054 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "c4677929-a33c-4138-963b-64b184eaa0df")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -6277,15 +6275,14 @@
 		(at 283.577446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX30"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "69b13ac3-1c43-4a7a-80da-ea08a2396e81")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -7230,7 +7227,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D93"
-			(at 0 2.000001 90)
+			(at -0.059354 -1.914946 90)
 			(layer "B.SilkS")
 			(uuid "6951ee89-0e1b-4d67-bc93-76f2a102805e")
 			(effects
@@ -7552,15 +7549,14 @@
 		(at 140.702446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX23"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.352446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "b4402ad1-fbe1-4e88-99fc-3a7aa815b310")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -8181,15 +8177,14 @@
 		(at 276.433696 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX75"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 1.883696 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "fa122dde-c87d-4287-b70a-9d0eae25e16f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -8810,15 +8805,14 @@
 		(at 145.464946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX69"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -2.985054 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "bb995fc6-ca67-4b4b-8d2f-f596ea06fcf5")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -9439,15 +9433,14 @@
 		(at 102.602446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX4"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.002446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "2188255b-416f-48fb-8488-008eb214e9b7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -10068,15 +10061,14 @@
 		(at 76.408696 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX79"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "2d6e493d-e977-4839-87e3-d3144c601393")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -10697,15 +10689,14 @@
 		(at 281.196197 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX63"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "24e3cf2a-23cd-4d9d-852d-5c6dc01b1578")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -11326,15 +11317,14 @@
 		(at 335.964946 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX86"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "2bad79a9-8735-4975-9e05-390b2e782eb3")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -11955,15 +11945,14 @@
 		(at 393.252446 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX91"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "e932087e-290f-457b-a4f7-5d00acaa0d18")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -12584,15 +12573,14 @@
 		(at 147.852446 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX80"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "f242ef32-7135-445c-91a7-ebb1124c9124")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -13859,15 +13847,14 @@
 		(at 211.822446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX60"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.522446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "56a7794a-8250-487b-954e-a22a22dfc6ed")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -14488,15 +14475,14 @@
 		(at 393.252446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX90"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.597554 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "eb5b5246-fc65-4289-b8ea-ab05ea85441f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -15117,15 +15103,14 @@
 		(at 135.622446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX56"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.422446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "e66a8a58-6043-4006-bc24-1a9462cfc18d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -15746,15 +15731,14 @@
 		(at 33.329946 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX51"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 9.979946 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "8068142a-31d5-45b3-86db-aca8637d7620")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -16375,15 +16359,14 @@
 		(at 26.402446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX17"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.852446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "3119cb59-e3fc-4013-a9db-3eda8dac8677")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -17006,15 +16989,14 @@
 		(at 52.596196 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX78"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "ea8882c6-fc77-4a29-98aa-b69bb483ccbd")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -18281,15 +18263,14 @@
 		(at 255.002446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX11"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "e291812a-9e61-4fd8-9fe6-e477315f7533")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -18910,15 +18891,14 @@
 		(at 45.452446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX18"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.152446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "7dfaceff-aeaa-4fe0-8523-df450287b1a7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -19541,15 +19521,14 @@
 		(at 121.652446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX5"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.052446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "c5038821-e0ca-4310-84f9-e1cba2a54a1c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -20170,15 +20149,14 @@
 		(at 240.714946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX74"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 3.764946 -8.922554 0)
+			(layer "F.SilkS")
 			(uuid "2c972712-d8d4-420d-8bdf-79c860e309cb")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -20799,15 +20777,14 @@
 		(at 159.752446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX24"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 4.752446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "c28e8f82-c3bb-4aa1-84d3-46c50fc68c5c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -21752,7 +21729,7 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
-			(at -2.7875 -0.799999 90)
+			(at -2.7875 -0.347554 90)
 			(layer "B.SilkS")
 			(uuid "05e55c60-bd0a-4eb1-9bac-40ec9cab5927")
 			(effects
@@ -22140,7 +22117,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 2.6416 -0.0254 0)
+			(at 2.822555 -0.0254 0)
 			(layer "B.SilkS")
 			(uuid "7c285754-b4a5-4a48-ad45-b949d966d2e8")
 			(effects
@@ -22951,15 +22928,14 @@
 		(at 64.502446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX19"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.302446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "afde4b10-7713-41f3-b70d-3e6fcb9addbd")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -23582,15 +23558,14 @@
 		(at 202.614946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX72"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -6.985054 -8.922554 0)
+			(layer "F.SilkS")
 			(uuid "c7c49cc4-8069-45f0-a0e6-f8618188ce7a")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -25180,21 +25155,20 @@
 		(at 26.402446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX1"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
-			(uuid "c4380bd5-ab68-4dbf-9763-4ac2cc0c299e")
+			(at 0.002446 -8.847554 0)
+			(layer "F.SilkS")
+			(uuid "74c42a3f-f3d8-4f7a-b50f-4403e89fb79d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "6ce379dc-f866-48af-abcb-65d87bb1c41b")
+			(uuid "36097800-4369-4269-a928-5ff6deac2259")
 			(effects
 				(font
 					(size 1 1)
@@ -25207,7 +25181,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e6ba4c6a-2fb5-470a-8c72-a1427fdcbdb0")
+			(uuid "1def1189-1c29-450f-84db-5e5973129bd8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25220,7 +25194,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5e82166b-b405-4dfb-acaa-de94b4968108")
+			(uuid "ecd36c07-21ba-4b3e-a6cf-b111dfe03827")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26455,15 +26429,14 @@
 		(at 164.514946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX70"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "954b18ca-c8df-4389-a76a-0c8491d6f94e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -27084,15 +27057,14 @@
 		(at 288.339946 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX47"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -2.310054 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "de90ac91-6d23-44b0-903d-3c677fb15385")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -27713,15 +27685,14 @@
 		(at 393.252446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX89"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "25dd4f96-805a-41ed-bfff-3e677b0b95ac")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -28342,15 +28313,14 @@
 		(at 192.772446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX59"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.172446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "90595800-8a70-4348-9582-2fdffd4fe61e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -28971,15 +28941,14 @@
 		(at 59.422446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX52"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 4.522446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "b78c72c0-b115-4f1b-a528-8445ee25b584")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -29923,15 +29892,14 @@
 		(at 316.914946 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX48"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -1.485054 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "371f654a-5b3b-4fc0-a83d-94441934ea11")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -30552,15 +30520,14 @@
 		(at 355.014946 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX33"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "28fc611b-641d-4b4d-a433-366dcea84595")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -31181,15 +31148,14 @@
 		(at 88.314946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX66"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "3774f7ab-faf3-443b-bce3-8ad948e8447c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -31810,21 +31776,20 @@
 		(at 64.502446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX2"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
-			(uuid "1484adbe-6707-49cd-9ef6-b695310bed10")
+			(at 0.002446 -8.847554 0)
+			(layer "F.SilkS")
+			(uuid "6647247b-4ed1-4f40-90de-62771529ce7b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "750d537c-b8a2-43a1-a3ca-f9273cbbb605")
+			(uuid "67d7e174-15c3-4e7a-afd9-1ef96a2caec5")
 			(effects
 				(font
 					(size 1 1)
@@ -31837,7 +31802,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8de0a691-88df-407c-b2cb-3c05661bde9c")
+			(uuid "c8fb8a18-7755-403c-a8a0-fbb77e85d6c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31850,7 +31815,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0c7b28df-ed06-431e-9a9f-91d7c81e46e0")
+			(uuid "1b1867ea-f8ff-4ad4-8144-e6384b9e8b49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32440,7 +32405,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0.0254 -1.1684 90)
+			(at -0.652446 -1.217754 90)
 			(layer "B.SilkS")
 			(uuid "ee7f9e33-5756-470e-bacb-20dafe31b878")
 			(effects
@@ -32928,15 +32893,14 @@
 		(at 169.277446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX7"
-			(at -5.4 1.8 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "e3fa073f-e613-4d11-a2a6-4c977f186ef0")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -33558,13 +33522,13 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 2.1818 0.1778 0)
+			(at -0.377446 -0.802446 180)
 			(layer "B.SilkS")
 			(uuid "f32806aa-bd99-4599-8b47-4a702674e654")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.1)
 				)
 				(justify mirror)
 			)
@@ -33723,15 +33687,14 @@
 		(at 207.377446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX43"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.627446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "d2e17b7f-edb9-447f-a690-5dfada580be9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -34675,15 +34638,14 @@
 		(at 126.414946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX68"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "a59eb56e-d745-4854-b4ec-aabffc18107c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -35627,15 +35589,14 @@
 		(at 255.002446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX29"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "9b789c0c-6b56-4bfd-8b64-99b6f4ae9398")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -36580,7 +36541,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 2.4 1.65 0)
+			(at 1.272554 1.403454 0)
 			(layer "B.SilkS")
 			(uuid "d2038523-fb3b-4042-ba81-b3200e26ead8")
 			(effects
@@ -37391,15 +37352,14 @@
 		(at 69.264946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX65"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "60fbe9fa-df32-4666-9ac0-5d33373af3d9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -38344,7 +38304,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.025 1.425 0)
+			(at 0.025 1.972553 0)
 			(layer "B.SilkS")
 			(uuid "0880815e-4c75-408f-a617-b317f31e4b18")
 			(effects
@@ -38509,15 +38469,14 @@
 		(at 216.902446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX27"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "702bab16-4346-4244-a9d1-67707595bf0e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -39461,15 +39420,14 @@
 		(at 219.276246 181.748046 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX81"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "3b0c046c-4c4e-4101-8020-339865b61cde")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -40090,15 +40048,14 @@
 		(at 226.427446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX44"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.827446 -8.722554 0)
+			(layer "F.SilkS")
 			(uuid "745f3df2-783d-4a49-99b3-f2d10e121ff8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -40719,15 +40676,14 @@
 		(at 274.052446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX12"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "080dc38a-c0d9-4565-8809-531d00f6acbe")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -41348,15 +41304,14 @@
 		(at 74.027446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX36"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.977446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "76b14df7-e42c-4fe7-854e-39e30919ac62")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -41978,9 +41933,9 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
-			(at 0 -1.8 270)
+			(at 0.002446 -1.977446 90)
 			(layer "B.SilkS")
-			(uuid "c701946d-71b8-43c5-9995-1efe125f2fe0")
+			(uuid "0a2e34be-4463-437d-9388-62e28dc73007")
 			(effects
 				(font
 					(size 1 1)
@@ -41992,7 +41947,7 @@
 		(property "Value" "D"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
-			(uuid "c8feeeb4-d363-411c-965e-b878fe6b7b2a")
+			(uuid "0518506f-bb46-4b70-9903-9db28ff57461")
 			(effects
 				(font
 					(size 1 1)
@@ -42006,7 +41961,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d095164e-3116-4780-b576-f2f372ad2b27")
+			(uuid "704d92bd-ea30-41e7-96b5-6ec0c2b123a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42020,7 +41975,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f86e3538-e3a9-434a-a5b6-6e79926d92e6")
+			(uuid "f50c6056-be45-4578-a69e-32c1a59fab84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42300,15 +42255,14 @@
 		(at 316.914946 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX14"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "3d65f6a2-ec2b-43a2-a550-c04a840d80ac")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -43575,15 +43529,14 @@
 		(at 293.102446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX13"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "55a0ddfc-28a9-478b-a4b5-201064945710")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -45497,7 +45450,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 2.5276 0 0)
+			(at 0.622555 1.497554 0)
 			(layer "B.SilkS")
 			(uuid "990089db-7a08-4d15-a91f-dc2cb77df8b8")
 			(effects
@@ -45663,7 +45616,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 1.9 0.05 0)
+			(at -2.177446 0.047554 0)
 			(layer "B.SilkS")
 			(uuid "f2c8fde6-713c-4550-b7db-8d90dd6544c0")
 			(effects
@@ -45828,15 +45781,14 @@
 		(at 197.852446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX26"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 2.652446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "a5938e68-b782-446c-906d-1096bda2dfff")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -46457,15 +46409,14 @@
 		(at 245.477446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX45"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.827446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "89828214-3a05-4ef8-9f61-47bf599d7100")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -47409,15 +47360,14 @@
 		(at 150.227446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX40"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.477446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "118cd4f5-8ead-4e4a-90c0-557e8fb6ea8b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -48038,15 +47988,14 @@
 		(at 107.364946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX67"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "ba629c07-4481-4a1d-8cd4-55f78d1fc764")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -48990,15 +48939,14 @@
 		(at 335.964946 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX15"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "0dee17a3-129d-4eb4-ab0e-35752a55a3a5")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -49619,15 +49567,14 @@
 		(at 78.472446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX53"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.072446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "378a3aa0-1321-482e-a1e5-00b9e9da4f13")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -50249,7 +50196,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 1.95 0.075 90)
+			(at -0.647554 -1.377446 180)
 			(layer "B.SilkS")
 			(uuid "f55b6f50-114d-4037-a840-9f951d72ad50")
 			(effects
@@ -51060,15 +51007,14 @@
 		(at 121.652446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX22"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.652446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "bb4de2e6-9c50-4dfe-ba9e-c96591781eb5")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -52014,15 +51960,14 @@
 		(at 112.127446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX38"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.627446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "057a8987-c5e9-4e06-b6bd-be3017e85f2d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -53289,15 +53234,14 @@
 		(at 243.02227 181.722446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX82"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "23df67b7-a185-4ef0-93da-9b05aec9cceb")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -53918,15 +53862,14 @@
 		(at 316.914946 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX31"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "c872f19a-e5ea-4cd2-81cb-593f51955bd2")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -54547,15 +54490,14 @@
 		(at 183.564946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX71"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "e101cde0-7250-4205-8120-b3e808c2c236")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -55176,15 +55118,14 @@
 		(at 249.922446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX62"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "f497bf7f-8ac8-41e9-8714-db22d318f0ce")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -55805,21 +55746,20 @@
 		(at 83.552446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX3"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
-			(uuid "81fcb1a7-ad65-4780-b995-457666bfe63a")
+			(at 0.002446 -8.847554 0)
+			(layer "F.SilkS")
+			(uuid "f6470354-36ad-40ca-9286-59b25ed1f52d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "721597fd-3bcd-4c1a-a0a4-42ac52f1faa9")
+			(uuid "22e91361-4172-404a-9a4a-97c11e306402")
 			(effects
 				(font
 					(size 1 1)
@@ -55832,7 +55772,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "44e8fc7f-4006-4215-b4d2-017533f4722c")
+			(uuid "f6caf406-9341-43d9-93d9-82e9798b68dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55845,7 +55785,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4e4764fe-ccf2-4c2e-93b1-cdae54ec7ab9")
+			(uuid "84ed5b32-20a9-4d87-a5c3-89f1ef01e848")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56435,7 +56375,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
-			(at 0 -6.100001 90)
+			(at -0.077554 -2.067446 90)
 			(layer "B.SilkS")
 			(uuid "87b458cd-300a-41b5-b111-257ba966779b")
 			(effects
@@ -57726,15 +57666,14 @@
 		(at 355.014946 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX16"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "4a72922d-cbd4-4e81-a1b6-40dfcafffd7d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -59649,15 +59588,14 @@
 		(at 178.802446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX25"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.502446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "a154a1bf-41ef-4a44-af3b-27c2a06f87e6")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -60278,15 +60216,14 @@
 		(at 355.014946 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX50"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -1.735054 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "09e74166-636e-43c8-9a57-90eb7aedfea7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -60907,15 +60844,14 @@
 		(at 116.572446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX55"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.472446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "76a5eb3b-3091-4272-af35-06245aedaa5c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -61536,15 +61472,14 @@
 		(at 264.527446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX46"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.727446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "7ae8086f-a500-4ee8-92de-f4be6bce8cca")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -62488,15 +62423,14 @@
 		(at 131.177446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX39"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.927446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "634c72d7-4a08-4fb9-8e79-82373f47d9f8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -63763,15 +63697,14 @@
 		(at 93.077446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX37"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.727446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "793642ec-089b-4ed4-af3a-2b5584ee6364")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -64715,15 +64648,14 @@
 		(at 207.377446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX9"
-			(at -5.3 1.7 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "d97194e4-a55e-46f7-bf3f-3024b99676ff")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -65667,15 +65599,14 @@
 		(at 154.672446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX57"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.322446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "3c93c61f-834e-4400-9451-6c134f1054f6")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -66296,15 +66227,14 @@
 		(at 169.277446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX41"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.577446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "5cd421ee-7ed3-4302-ba9b-6a22c2275285")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -68217,15 +68147,14 @@
 		(at 290.675646 181.697246 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX84"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "c15043f4-34a4-4170-a6ba-9390c3d28186")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -69816,7 +69745,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 2.000001 0 90)
+			(at 2.647554 -0.147554 90)
 			(layer "B.SilkS")
 			(uuid "b04777c6-68bb-43e9-8cb4-f27d466a6cee")
 			(effects
@@ -70305,7 +70234,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at -2.624452 -0.02549 0)
+			(at -2.922554 -0.02549 0)
 			(layer "B.SilkS")
 			(uuid "88831add-4980-4584-a595-4795a70d880a")
 			(effects
@@ -71116,15 +71045,14 @@
 		(at 266.908696 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX83"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "078e4fdc-3bd0-4ac9-8500-5f113477129f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -71745,15 +71673,14 @@
 		(at 173.722446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX58"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.722446 -8.972554 0)
+			(layer "F.SilkS")
 			(uuid "c65b3fa5-f3da-48b8-99fa-c3c470f59d70")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -72698,12 +72625,12 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D89"
-			(at 0 2.000001 0)
+			(at -1.422554 -2.372554 180)
 			(layer "B.SilkS")
 			(uuid "48e85b58-4fbb-4eb6-a6c3-b8c0efb16c7c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.75 0.75)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -73020,15 +72947,14 @@
 		(at 235.952446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX28"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "20633325-d3ea-4ac4-a4b2-7363b2121265")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -73649,15 +73575,14 @@
 		(at 221.664946 162.677446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX73"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "d8f091ec-6d1d-450a-9685-fd68906b1f2b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -74278,15 +74203,14 @@
 		(at 38.297446 162.672446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX64"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -1.002554 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "13ab7559-4600-465a-aa01-41870263cd99")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -74908,7 +74832,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D92"
-			(at 0 2.000001 90)
+			(at -0.047554 -2.064946 90)
 			(layer "B.SilkS")
 			(uuid "f13a6513-a2af-4e52-8f69-a856753a356b")
 			(effects
@@ -76465,13 +76389,14 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 2.4384 0.0254 90)
+			(at 2.497554 0.027446 270)
 			(layer "B.SilkS")
 			(uuid "77e6aea4-a66e-4db2-b736-3a3a3a9662a1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.1)
+					(bold yes)
 				)
 				(justify mirror)
 			)
@@ -76630,15 +76555,14 @@
 		(at 393.252446 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX88"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "dd794a13-d6d7-4a14-8096-3e105bd5a073")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -77260,7 +77184,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 2.4166 0.0032 0)
+			(at 1.772554 -1.302446 0)
 			(layer "B.SilkS")
 			(uuid "70aabbad-239f-4fe6-8734-b4dc2bb6bb82")
 			(effects
@@ -78071,15 +77995,14 @@
 		(at 355.014946 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX87"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "54de550a-decb-46f1-a3d7-5e46cd996d84")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -79669,15 +79592,14 @@
 		(at 54.977446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX35"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.427446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "eafbb7ac-f575-4fe7-a46a-52cc8f6f7842")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -80622,13 +80544,13 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at -2.413 -0.1016 90)
+			(at -1.947554 0.022554 180)
 			(layer "B.SilkS")
 			(uuid "165c43a2-6375-40d6-b91a-866dbfb3132a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.1)
 				)
 				(justify mirror)
 			)
@@ -81110,15 +81032,14 @@
 		(at 150.227446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX6"
-			(at -5.35 1.7 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "a9ebe363-5246-4ac9-8395-d2e47efd6228")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -81740,7 +81661,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D90"
-			(at 0 2.000001 90)
+			(at 0.002446 -1.914946 90)
 			(layer "B.SilkS")
 			(uuid "a6946c14-c600-48e8-ac77-5c9ac271eb42")
 			(effects
@@ -82385,15 +82306,14 @@
 		(at 335.964946 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX49"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -2.035054 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "1de6ddae-d407-4b3e-816c-a211005b9556")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -83015,7 +82935,7 @@
 		(descr "SMD Tactile Switch, 3.9x3x2 mm, https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XUNPU-TS-1088-AR02016_C720477.pdf")
 		(tags "Tactile Switch")
 		(property "Reference" "SW2"
-			(at 0 2.65 90)
+			(at 0.022553 3.327446 90)
 			(layer "B.SilkS")
 			(uuid "9ec33760-9484-4a83-ba99-edc7d504aea5")
 			(effects
@@ -83279,15 +83199,14 @@
 		(at 188.327446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX8"
-			(at -5.45 1.8 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "f2c7701e-eb65-4c7a-ad01-5225120fbb33")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -84555,7 +84474,7 @@
 		(descr "LQFP, 48 Pin (JEDEC MS-026 variation BBC, 1.40mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfp/05081760_a_lx48.pdf)")
 		(tags "LQFP QFP CASE-932AA CASE-932-03 C48-1 C48-2 C48-3 C48-5 C48-6 C48-6C PT0048A")
 		(property "Reference" "U1"
-			(at 0 5.85 90)
+			(at -4.147554 -4.677446 0)
 			(layer "B.SilkS")
 			(uuid "60b45044-90a5-42a0-a35c-29f435125729")
 			(effects
@@ -86092,15 +86011,14 @@
 		(at 230.872446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX61"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 4.322446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "8ba7cc56-f45e-43a5-a023-0e3e32722576")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -86721,15 +86639,14 @@
 		(at 28.783696 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX77"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "4c74d02c-ca89-4314-9528-8b3fa137eb2f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -88319,15 +88236,14 @@
 		(at 316.914946 181.727446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX85"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "cbf05d77-65c0-4b9e-a846-c7329e88c052")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -88948,15 +88864,14 @@
 		(at 335.964946 105.527446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX32"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at -4.25 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "82a1556f-9ff2-473e-ab15-67665a0bbf28")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -89578,7 +89493,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D91"
-			(at 0 2.000001 90)
+			(at -0.047554 -2.014946 90)
 			(layer "B.SilkS")
 			(uuid "46b4799a-b360-4ee9-9bc6-4d0020bd88a2")
 			(effects
@@ -89901,7 +89816,7 @@
 		(descr "SOT-143 https://www.nxp.com/docs/en/package-information/SOT143B.pdf")
 		(tags "SOT-143")
 		(property "Reference" "D1"
-			(at -2.3588 0.0006 90)
+			(at -3.777446 0.0006 90)
 			(layer "B.SilkS")
 			(uuid "d9765cec-129a-4072-ab0a-2eb5dc960678")
 			(effects
@@ -90157,15 +90072,14 @@
 		(at 102.677445 105.482446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX21"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.427445 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "2eb73d58-a1de-45c4-be60-a28d857c1164")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -90788,15 +90702,14 @@
 		(at 97.522446 143.627446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX54"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 5.272446 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "28445c3b-2dcb-41d3-898f-7618c9807f14")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -92229,15 +92142,14 @@
 		(at 188.327446 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX42"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 6.777446 -8.822554 0)
+			(layer "F.SilkS")
 			(uuid "3b3bfb6e-5651-436d-9288-08ebc3e49440")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -93181,15 +93093,14 @@
 		(at 235.952446 76.952446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX10"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 0.027446 -8.847554 0)
+			(layer "F.SilkS")
 			(uuid "6909810b-04b4-4f8b-9059-40119b326a79")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
@@ -94133,15 +94044,14 @@
 		(at 31.164946 124.577446 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
 		(property "Reference" "MX34"
-			(at -4.25 1.75 0)
-			(layer "B.SilkS")
+			(at 8.864946 -8.872554 0)
+			(layer "F.SilkS")
 			(uuid "b9160bcd-f2ee-41b1-8891-30a9c71780ba")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "MX_SW_HS"
